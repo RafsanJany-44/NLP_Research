@@ -1,5 +1,8 @@
 Tensore flow installation (pythoon verssion  3.7 to 3.9)
 
+conda create --name bis_tensor python=3.7
+
+
 (RattleSnake) C:\Users\RAZER>python --version
 Python 3.7.16
 
